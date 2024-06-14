@@ -132,6 +132,7 @@
 
 
 ###
+<h2 align="center">Implementación de una actions para obtener una animación (Serpiente se alimenta de mis colaboraciones)</h2>
 
 <img src="https://raw.githubusercontent.com/Enardelg/Enardelg/output/snake.svg" alt="Snake animation" />
 
