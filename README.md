@@ -130,6 +130,14 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 
 ###
 <h2 align="center">Implementación de una actions para obtener una animación (Serpiente se alimenta de mis colaboraciones)</h2>
