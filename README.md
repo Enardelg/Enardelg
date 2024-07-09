@@ -133,7 +133,7 @@
 ###
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11170248753&unique={true|1|on|yes})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11170248753)
 </div>
 
 ###
