@@ -129,19 +129,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" style="text-decoration: none alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11170248753" alt="Spotify recently played"  />
-</div>
-
-###
-
-###
-
-
-###
 <h2 align="center">Implementación de una actions para obtener una animación (Serpiente se alimenta de mis colaboraciones)</h2>
 
 <img src="https://raw.githubusercontent.com/Enardelg/Enardelg/output/snake.svg" alt="Snake animation" />
